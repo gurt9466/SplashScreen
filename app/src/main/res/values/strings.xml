@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+    <string name="chicharon">In many Spanish-speaking parts of the world, chicharon refers to a snack made with deep-fried pork rinds. In the Philippines, it refers to that too but it can also refer to other similarly deep-fried dishes usually made with either pork or chicken.
+        Some of the most common examples of chicharon in the Philippines include chicharon bituka, which refers to pork intestines that have been chopped up into bite-sized pieces and deep-fried..</string>
+    <string name="sisig">Sisig is traditionally made with pork though you can find other versions these days made with other proteins like tuna, squid, mussel, or oyster. You can even find more exotic versions made with crocodile or ostrich but pork sisig is still the best and the one you should try.</string>
 </resources>
